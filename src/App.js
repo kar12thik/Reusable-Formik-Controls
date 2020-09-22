@@ -10,8 +10,8 @@ export default function App() {
     <div className="App">
       {/* <FormikContainer /> */}
       {/* <LoginForm /> */}
-      {/* <RegistrationForm /> */}
-      <EnrollmentForm />
+      <RegistrationForm />
+      {/* <EnrollmentForm /> */}
     </div>
   );
 }
